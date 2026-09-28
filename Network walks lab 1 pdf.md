@@ -36,4 +36,5 @@ john hash_pdf.txt
 
 the password for the locked pdf is : password1
 
-![[VirtualBox_kali-linux-2026.2-virtualbox-amd64_27_09_2026_22_54_44.png]]
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/3d71261d-4f68-4f47-a4b0-13379508a806" />
+
